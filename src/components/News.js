@@ -58,15 +58,12 @@ export class News extends Component {
       <div className='container my-3'>
         <h2>Newzy247</h2>
         <div className="row">
-            <div className="col-md-4">
-                <Newsitem title="hello" description="hello again" imageUrl="https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png" newsUrl="TODO"/>
+        {this.state.articles.map((element)=>{
+            return <div className="col-md-3" key={element.url}>
+                <Newsitem title={element.title} description={element.description} imageUrl={element.urlToImage} newsUrl="TODO"/>
             </div>
-            <div className="col-md-4">
-                <Newsitem title="hello" description="hello again"/>
-            </div>
-            <div className="col-md-4">
-                <Newsitem title="hello" description="hello again"/>
-            </div>
+            })}
+            
         </div>    
       </div>
     )
