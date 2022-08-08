@@ -52,15 +52,25 @@ export class News extends Component {
         }
       }
 
+      async componentDidMount(){
+        console.log('cdm')
+        let url = "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=6da6252ff0384d25b601d7388b662111"
+        let data = await fetch(url)
+        let parsedData = await data.json()
+        console.log(parsedData)
+        this.setState({articles: parsedData.articles})
+      }
+
 
   render() {
+      console.log('render')
     return (
-      <div className='container my-3'>
-        <h2>Newzy247</h2>
+        <div className='container my-3'>
+        <h1>Newzy247</h1>
         <div className="row">
         {this.state.articles.map((element)=>{
             return <div className="col-md-3" key={element.url}>
-                <Newsitem title={element.title} description={element.description} imageUrl={element.urlToImage} newsUrl="TODO"/>
+                <Newsitem title={element.title?element.title:"blank"} description={element.description?element.description:"blank"} imageUrl={element.urlToImage} newsUrl={element.url}/>
             </div>
             })}
             

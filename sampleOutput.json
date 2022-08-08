@@ -1,45 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 3,
+    "totalResults": 38,
     "articles": [
     {
     "source": {
-    "id": "bbc-sport",
-    "name": "BBC Sport"
+    "id": null,
+    "name": "News18"
     },
-    "author": "BBC Sport",
-    "title": "Shane Warne memorial - watch & follow updates",
-    "description": "Watch live coverage and follow text updates and tributes from the state memorial for Australian cricket legend Shane Warne at the Melbourne Cricket Ground.",
-    "url": "http://www.bbc.co.uk/sport/live/cricket/60916236",
-    "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
-    "publishedAt": "2022-03-30T08:22:26.498888Z",
-    "content": "Former England bowler and BBC cricket presenter Isa Guha, who became a colleague of Warne's in the commentary box: \"It has been a strange few weeks - a lot of shock and then we did our own tribute at… [+396 chars]"
-    },
-    {
-    "source": {
-    "id": "espn-cric-info",
-    "name": "ESPN Cric Info"
-    },
-    "author": null,
-    "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-    "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-    "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-    "publishedAt": "2020-04-27T11:41:47Z",
-    "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    "author": "Sports Desk",
+    "title": "CWG 2022 Women's Singles Badminton Gold Medal Match Live Score: PV Sindhu vs Michelle Li Gets Underway in B - News18",
+    "description": "CWG 2022 Live score: Check PV Sindhu vs Michelle Li Gold Medal Match Latest Updates in Women’s Singles Badminton in Birmingham. The Indian ace shutter starts as favourite against Canada’s Michelle Li.",
+    "url": "https://www.news18.com/news/sports/pv-sindhu-vs-michelle-li-live-score-cwg-2022-gold-medal-match-badminton-womens-singles-latest-updates-online-watch-streaming-august-8-commonwealth-games-birmingham-livenews-5710009.html",
+    "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/08/whatsapp-image-2022-08-08-at-1.12.03-pm-165994500116x9.jpeg",
+    "publishedAt": "2022-08-08T08:35:54Z",
+    "content": "clearly the better player on display as she kept a firm grip on the match.Sindhu seemed a bit restricted in her movement with the achilles of her left leg strapped. The Singaporean played some good-l… [+1967 chars]"
     },
     {
     "source": {
-    "id": "espn-cric-info",
-    "name": "ESPN Cric Info"
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "Shaurya Tomer",
+    "title": "Asteroid OC4 hurtling towards Earth, says NASA; big as a bus, it will be upon us tomorrow, June 9 - HT Tech",
+    "description": "Asteroid OC4 will approach Earth tomorrow, August 9, says NASA. Here’s more about it.",
+    "url": "https://tech.hindustantimes.com/tech/news/asteroid-oc4-hurtling-towards-earth-says-nasa-big-as-a-bus-it-will-be-upon-us-tomorrow-june-9-71659946878859.html",
+    "urlToImage": "https://images.hindustantimes.com/tech/img/2022/08/08/1600x900/asteroid-4145080_1920_1646293428986_1659946949179_1659946949179.jpg",
+    "publishedAt": "2022-08-08T08:23:11Z",
+    "content": "An asteroid nearly the size of a bus is expected to just whizz past Earth on August 9. Although the asteroid isn't on a collision course with Earth, it will pass so close to Earth that it has attract… [+1874 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NDTV News"
     },
     "author": null,
-    "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-    "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-    "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-    "publishedAt": "2020-03-30T15:26:05Z",
-    "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    "title": "In Farewell Speech, Trinamool's Derek O'Brien's Swipe At Venkaiah Naidu - NDTV",
+    "description": "Derek O'Brien during his farewell speech for outgoing M Venkaiah Naidu in the Rajya Sabha took a swipe at Prime Minister Narendra Modi saying Mr Naidu would have tried hard to get the Prime Minister to perhaps answer one question in his full tenure.",
+    "url": "https://www.ndtv.com/india-news/in-farewell-speech-trinamools-derek-obriens-swipe-at-venkaiah-naidu-3235501",
+    "urlToImage": "https://c.ndtvimg.com/2021-12/qodbf438_derek-obrien-rajya-sabha-ani_625x300_21_December_21.jpg",
+    "publishedAt": "2022-08-08T07:39:08Z",
+    "content": "The farewell in the upper house of Parliament was attended by several top leaders. (file)\r\nNew Delhi: Trinamool MP Derek O'Brien during his farewell speech for outgoing Vice President M Venkaiah Naid… [+1671 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DNA India"
+    },
+    "author": "DNA Web Team",
+    "title": "Sudden spike in HIV cases in India: Know how to protect yourself from transmitting, contracting AIDS - DNA India",
+    "description": "There are many ways to prevent HIV, and practicing all of them will reduce your likelihood of contracting the virus.",
+    "url": "https://www.dnaindia.com/health/report-hiv-cases-in-india-uttar-pradesh-varanasi-know-how-to-protect-yourself-from-transmitting-hiv-aids-2974855",
+    "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/08/08/2528470-hiv-prevention-know-how-to-protect-yourself-from-transmitting-hiv-aids.jpg",
+    "publishedAt": "2022-08-08T07:20:15Z",
+    "content": "Reported By:| Edited By: DNA Web Team |Source: DNA webdesk |Updated: Aug 08, 2022, 12:50 PM ISTFor the past few days, India is witnessing a sudden spike in HIV cases. According to the reports,14 peop… [+2435 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "123telugu.com"
+    },
+    "author": null,
+    "title": "Bollywood star actor says he didn’t watch RRR - 123telugu",
+    "description": "The most popular television quiz show, Kaun Banega Crorepati (KBC) is back with a bang. Hosted by the Bollywood Megastar Amitabh Bachchan, the hit show's 14th season started airing last night and",
+    "url": "https://www.123telugu.com/mnews/bollywood-star-actor-says-he-didnt-watch-rrr.html",
+    "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
+    "publishedAt": "2022-08-08T07:02:00Z",
+    "content": "The most popular television quiz show, Kaun Banega Crorepati (KBC) is back with a bang. Hosted by the Bollywood Megastar Amitabh Bachchan, the hit shows 14th season started airing last night and Mr P… [+568 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "Priya Kumari",
+    "title": "Asus Zenbook 14 Flip OLED (UP5401) Short Review: 5 points to know - HT Tech",
+    "description": "Is Asus Zenbook 14 Flip OLED (UP5401) worth buying at a starting price of Rs. 99,990? Here are 5 points you need to know.",
+    "url": "https://tech.hindustantimes.com/photos/asus-zenbook-14-flip-oled-up5401-short-review-5-points-to-know-71659940865244.html",
+    "urlToImage": "https://images.hindustantimes.com/tech/img/2022/08/08/1600x900/Untitled_design_-_2022-08-08T104810.900_1659940960451_1659941081440_1659941081440.png",
+    "publishedAt": "2022-08-08T06:58:15Z",
+    "content": "Top SectionsExplore Tech\r\n Copyright © HT Media Limited All rights reserved."
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "WhatsApp works on login approval to protect your account from hackers - BusinessLine",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vaW5mby10ZWNoL3NvY2lhbC1tZWRpYS93aGF0c2FwcC13b3Jrcy1vbi1sb2dpbi1hcHByb3ZhbC10by1wcm90ZWN0LXlvdXItYWNjb3VudC1mcm9tLWhhY2tlcnMvYXJ0aWNsZTY1NzQ0NzE4LmVjZdIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-08-08T06:54:17Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Moneycontrol"
+    },
+    "author": "Rakesh Patil",
+    "title": "Market LIVE Updates: Indices trade higher with Nifty around 17,450; M&M, NTPC top gainers, SBI most... - Moneycontrol",
+    "description": "Market LIVE Updates: On the sectoral front, power and capital goods indices up 1 percent each, while buying is also seen in the metal, auto and realty names. However, oil &amp; gas and IT stocks remain under pressure.",
+    "url": "https://www.moneycontrol.com/news/business/markets/share-market-live-updates-stock-market-today-august-8-latest-news-bse-nse-sensex-nifty-covid-coronavirus-bharti-airtel-adani-ports-power-grid-sbi-bpcl-hpcl-marico-paytm-nykaa-irb-infra-nhpc-birla-corp-8974091.html",
+    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/12/fandosensexniftyderivative-770x433.jpg",
+    "publishedAt": "2022-08-08T06:30:34Z",
+    "content": "August 08, 2022 / 11:18 AM IST\r\nGeojit on ITC: ITC is a diversified conglomerate with presence in FMCG, hotels, paperboards and specialty papers, packaging, and agri-business. The company directly em… [+824 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CarToq.com"
+    },
+    "author": "Jayprashanth Mohanram",
+    "title": "Hunter 350 launched: Most affordable Royal Enfield motorcycle on sale - CarToq.com",
+    "description": "Royal Enfield has just launched the Hunter 350 roadster motorcycle, with prices starting from Rs. 1.5 lakh, ex-showroom. This makes the Royal Enfield Hunter 350 the most affordable offering in the retro-modern motorcycle brand’s range, and the Hunter 350 is a…",
+    "url": "https://www.cartoq.com/hunter-350-launched-most-affordable-royal-enfield-motorcycle-on-sale/",
+    "urlToImage": "https://www.cartoq.com/wp-content/uploads/2022/08/royal-enfield-hunter-350-featured-1.jpg",
+    "publishedAt": "2022-08-08T06:02:01Z",
+    "content": "Royal Enfield has just launched the Hunter 350 roadster motorcycle, with prices starting from Rs. 1.5 lakh, ex-showroom. This makes the Royal Enfield Hunter 350 the most affordable offering in the re… [+2782 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ThePrint"
+    },
+    "author": "PTI",
+    "title": "The length of Earth’s days has been mysteriously increasing, and scientists don’t know why - ThePrint",
+    "description": "Hobart (Australia), Aug 8 (The Conversation) Atomic clocks, combined with precise astronomical measurements, have revealed that the length of a day is suddenly getting longer, and scientists don’t know why. This has critical impacts not just on our timekeepin…",
+    "url": "https://theprint.in/world/the-length-of-earths-days-has-been-mysteriously-increasing-and-scientists-dont-know-why/1073869/",
+    "urlToImage": null,
+    "publishedAt": "2022-08-08T06:00:07Z",
+    "content": "Hobart (Australia), Aug 8 (The Conversation) Atomic clocks, combined with precise astronomical measurements, have revealed that the length of a day is suddenly getting longer, and scientists dont kno… [+5273 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "Tech Desk",
+    "title": "Amazon Great Freedom Festival sale: ​​Top discounts on 5G phones from OnePlus, Xiaomi and Samsung - The Indian Express",
+    "description": "Amazon Great Freedom Festival sale: We take a look at the best 5G phones from top brands such as OnePlus to Xiaomi to Samsung and what are the deals to keep in mind on Amazon",
+    "url": "https://indianexpress.com/article/technology/techook/amazon-great-freedom-festival-sale-%e2%80%8b%e2%80%8btop-discounts-on-5g-phones-from-oneplus-xiaomi-and-samsung-8077478/",
+    "urlToImage": "https://images.indianexpress.com/2022/08/OnePlus-10R-Review-Featured.jpeg",
+    "publishedAt": "2022-08-08T05:54:48Z",
+    "content": "Amazons Great Freedom Festival Sale is currently on and there are deals and discounts across categories from mobile phones to laptops to home appliances. But with smartphones, the deals can get confu… [+4044 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NDTV News"
+    },
+    "author": null,
+    "title": "China Continues Military Drills Around Taiwan Day After Scheduled End - NDTV",
+    "description": "China's military announced fresh military drills on Monday in the seas and airspace around Taiwan - a day after the scheduled end of its largest ever exercises to protest against last week's visit to Taipei by USHouse Speaker Nancy Pelosi.",
+    "url": "https://www.ndtv.com/world-news/china-continues-military-drills-around-taiwan-day-after-scheduled-end-3235089",
+    "urlToImage": "https://c.ndtvimg.com/2022-08/sloim4ko_china-taiwan-missile-650_625x300_04_August_22.jpg",
+    "publishedAt": "2022-08-08T05:37:00Z",
+    "content": "The military has carried out an unprecedented set of naval and air force drills near Taiwan. (File)\r\nBeijing: China's military announced fresh military drills on Monday in the seas and airspace aroun… [+3854 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "India Today"
+    },
+    "author": null,
+    "title": "Dusty dozen: Perseverance rover scores 12th rock sample to be sent home from Mars - India Today",
+    "description": "The Perseverance rover has collected the 12th rock sample from Mars that will be sent to Earth by future mission. The samples are likely to arrive on Earth in 2033.",
+    "url": "https://www.indiatoday.in/science/story/dusty-dozen-perseverance-rover-scores-12th-rock-sample-to-be-sent-home-from-mars-1985082-2022-08-08",
+    "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202208/Perseverance_8-647x363.jpeg?VUEV1OGMEbzpq7WDEQiraKsTVAt8pXYw",
+    "publishedAt": "2022-08-08T05:30:49Z",
+    "content": "The Perseverance rover, which is trundling in the Jazero crater, grabbed its 12th sample from Mars to be sent to Earth with future missions. The samples are needed to study in depth and find if life … [+2698 chars]"
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "Chaitanya Marpakwar,Vijay V Singh",
+    "title": "Did Sanjay Raut write latest Saamna column from jail? ED to probe - Times of India",
+    "description": "Shiv Sena mouthpiece Saamna on Sunday published Sanjay Raut's weekly column, Rok Thok, prompting ED officials to say they will question the incarcerat",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/did-sanjay-raut-write-latest-saamna-column-from-jail-ed-to-probe/articleshow/93416212.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-93420410,width-1070,height-580,imgsize-84956,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2022-08-08T05:30:00Z",
+    "content": "Maharashtra: ED action on Sanjay Raut part of dangerous ploy, says Uddhav ThackerayShiv Sena president Uddhav Thackeray on Sunday said the ED raid at party MP Sanjay Raut's home was part of a dangero… [+107 chars]"
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "TIMESOFINDIA.COM",
+    "title": "High cholesterol symptoms: THIS colour in your leg could indicate high cholesterol - Times of India",
+    "description": "Cholesterol is a waxy substance that is necessary for the body to create healthy cells. However, when there is an excess of 'bad' cholesterol or fatty deposits in the blood vessels, it jams the arteries, making it difficult for the blood to flow through the a…",
+    "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/high-cholesterol-symptoms-this-colour-in-your-leg-could-indicate-high-cholesterol/photostory/93371763.cms",
+    "urlToImage": "https://static.toiimg.com/photo/93371782.cms",
+    "publishedAt": "2022-08-08T05:30:00Z",
+    "content": "According to the Mayo Clinic, peripheral artery disease (PAD) may be accompanied by several symptoms including:\r\n- Coldness, numbness and weakness in the lower leg or foot, especially when compared w… [+452 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Parliament Monsoon Session live updates | PM Modi leads the way as Rajya Sabha bids emotional farewell to outgoing Chairman Venkaiah Naidu - The Hindu",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9uZXdzL25hdGlvbmFsL3BhcmxpYW1lbnQtbW9uc29vbi1zZXNzaW9uLWxpdmUtdXBkYXRlcy1hdWd1c3QtOC0yMDIyL2FydGljbGU2NTc0NDcwOC5lY2XSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-08-08T05:29:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "91mobiles"
+    },
+    "author": null,
+    "title": "[Exclusive] Samsung Galaxy Z Fold 4, Z Flip 4 colours, storage options for India revealed - 91mobiles",
+    "description": "Samsung Galaxy Z Fold 4 and Flip 4 launch event is scheduled to be held on August 10th. Ahead of that, here are exclusive details on the phones' colours and storage options for India.",
+    "url": "https://www.91mobiles.com/hub/exclusive-samsung-galaxy-z-fold-4-flip-4-colours-storage-options-india-revealed/",
+    "urlToImage": "https://www.91-cdn.com/hub/wp-content/uploads/2022/08/Samsung-Galaxy-Z-Fold-4-feat.jpg",
+    "publishedAt": "2022-08-08T05:20:06Z",
+    "content": "The new information suggests that Samsung will not waste much time putting the devices on sale once they are officially announced. The Samsung Galaxy Z Fold 4 and Galaxy Z Flip 4 will be on sale from… [+2219 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Udayavani.com"
+    },
+    "author": "Udayavani",
+    "title": "ICMR-NIV analysis finds A.2 strain of monkeypox virus in first two cases - Udayavani English",
+    "description": "An analysis of India’s first two monkeypox cases by an institute of the Indian Council of Medical Research revealed that the duo who returned from the UAE were...",
+    "url": "https://www.udayavani.com/english-news/icmr-niv-analysis-finds-a-2-strain-of-monkeypox-virus-in-first-two-cases",
+    "urlToImage": "https://www.udayavani.com/wp-content/uploads/2022/08/Monkeypox-rep-Reuters-2-620x371.jpg",
+    "publishedAt": "2022-08-08T05:18:00Z",
+    "content": "Udayavani is now on Telegram.Click hereto join our channel and stay updated with the latest news."
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "Manuja Veerappa",
+    "title": "CWG 2022: Will India stop the Aussie juggernaut in men's hockey? - Times of India",
+    "description": "Commonwealth Games 2022 News: The Australian juggernaut has rolled on since hockey was introduced at the 1998 Commonwealth Games with the Kookaburras emerging as the undisputed six",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games-2022/indiabirmingham/cwg-2022-will-india-stop-the-aussie-juggernaut-in-mens-hockey/articleshow/93421244.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-93421222,width-1070,height-580,imgsize-115604,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2022-08-08T04:46:00Z",
+    "content": ""
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "India Today"
+    },
+    "author": null,
+    "title": "Chirag Paswan hits back at JD(U), says Nitish Kumar is scared of defeat in 2024 polls - India Today",
+    "description": "Lok Sabha MP Chirag Paswan reacted after JD(U) national president Rajiv Ranjan (Lalan) Singh had alleged that some people were conspiring against the JD(U) and preparing to make another model like the Chirag Paswan model.",
+    "url": "https://www.indiatoday.in/india/story/chirag-paswan-hits-back-at-jdu-says-nitish-kumar-is-scared-of-defeat-in-2024-polls-1985065-2022-08-08",
+    "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202208/WhatsApp_Image_2022-08-08_at_1-647x363.jpeg?38WKJpV2rL6_oDAzmME.rD8QJb1rmz21",
+    "publishedAt": "2022-08-08T04:38:46Z",
+    "content": "Jamui Lok Sabha MP Chirag Paswan launched a scathing attack on Bihar Chief Minister Nitish Kumar and his party Janata Dal (United) in response to JD(U) national president Rajiv Ranjan (Lalan) Singhs … [+2533 chars]"
     }
     ]
     }
