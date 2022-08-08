@@ -61,6 +61,13 @@ export class News extends Component {
         this.setState({articles: parsedData.articles})
       }
 
+      handlePrevClick = ()=>{
+        console.log("Prev is clicked")
+    }
+    handleNextClick = ()=>{
+          console.log("nect is clicked")
+
+      }
 
   render() {
       console.log('render')
@@ -73,8 +80,11 @@ export class News extends Component {
                 <Newsitem title={element.title?element.title:"blank"} description={element.description?element.description:"blank"} imageUrl={element.urlToImage} newsUrl={element.url}/>
             </div>
             })}
-            
-        </div>    
+        </div> 
+        <div className="container d-flex justify-content-between my-5">
+        <button type="button" class="btn btn-danger" onClick={this.handlePrevClick}> &larr; Previous</button>
+        <button type="button" class="btn btn-success" onClick={this.handleNextClick}>Next &rarr;</button>
+        </div>   
       </div>
     )
   }
