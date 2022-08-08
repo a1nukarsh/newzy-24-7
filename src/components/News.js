@@ -48,26 +48,50 @@ export class News extends Component {
         console.log("Hello I am a Constructor");
         this.state={
             articles: this.articles,
-            loading: false
+            loading: false,
+            page:1
         }
       }
 
       async componentDidMount(){
         console.log('cdm')
-        let url = "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=6da6252ff0384d25b601d7388b662111"
+        let url = "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=6da6252ff0384d25b601d7388b662111&page=1"
         let data = await fetch(url)
         let parsedData = await data.json()
         console.log(parsedData)
-        this.setState({articles: parsedData.articles})
+        this.setState({articles: parsedData.articles, totalResults: parsedData.totalResults})
       }
 
-      handlePrevClick = ()=>{
-        console.log("Prev is clicked")
-    }
-    handleNextClick = ()=>{
-          console.log("nect is clicked")
+        handlePrevClick = async ()=>{
+            console.log("Prev is clicked")
+            let url = `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=6da6252ff0384d25b601d7388b662111&page=${this.state.page - 1}&pageSize=20`
+            let data = await fetch(url)
+            let parsedData = await data.json()
+            console.log(parsedData)
+            this.setState({
+                page: this.state.page - 1,
+                articles: parsedData.articles
 
-      }
+            })
+        }
+        handleNextClick = async ()=>{
+            console.log("nect is clicked")
+            if(this.state.page + 1> Math.ceil(this.state.totalResults/20)){
+
+            }
+            else{
+
+                let url = `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=6da6252ff0384d25b601d7388b662111&page=${this.state.page + 1}&pageSize=20`
+                let data = await fetch(url)
+                let parsedData = await data.json()
+                console.log(parsedData)
+                this.setState({
+                    page: this.state.page + 1,
+                    articles: parsedData.articles
+                    
+                })
+            }
+        }
 
   render() {
       console.log('render')
@@ -82,8 +106,8 @@ export class News extends Component {
             })}
         </div> 
         <div className="container d-flex justify-content-between my-5">
-        <button type="button" class="btn btn-danger" onClick={this.handlePrevClick}> &larr; Previous</button>
-        <button type="button" class="btn btn-success" onClick={this.handleNextClick}>Next &rarr;</button>
+        <button disabled={this.state.page<=1} type="button" className="btn btn-danger" onClick={this.handlePrevClick}> &larr; Previous</button>
+        <button type="button" className="btn btn-success" onClick={this.handleNextClick}>Next &rarr;</button>
         </div>   
       </div>
     )
