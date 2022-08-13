@@ -56,14 +56,19 @@ export class News extends Component {
         "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
         }
         ]
-    constructor() {
-        super();
+
+    capitalizeFirstLetter = (string)=>{
+        return string.charAt(0).toUpperCase()+string.slice(1)
+    }
+    constructor(props) {
+        super(props);
         console.log("Hello I am a Constructor");
         this.state={
             articles: this.articles,
             loading: false,
             page:1
         }
+        document.title = `${this.capitalizeFirstLetter(this.props.category)} - Newzy247`
       }
 
       async updateNews(){
@@ -132,7 +137,7 @@ export class News extends Component {
       console.log('render')
     return (
         <div className='container my-3'>
-        <h1 className='text-center'>Newzy247</h1>
+        <h1 className='text-center'>Newzy247 - {this.capitalizeFirstLetter(this.props.category)} News</h1>
         {this.state.loading && <Spinner/>}
         <div className="row">
         {!this.state.loading && this.state.articles.map((element)=>{
