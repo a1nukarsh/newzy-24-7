@@ -9,7 +9,7 @@ const News = (props) => {
   const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(1);
   const [totalResults, setTotalResults] = useState(0);
-  // document.title = `${this.capitalizeFirstLetter(props.category)} - Newzy247`
+  
 
   // articles = [
   //     {
@@ -79,6 +79,7 @@ const News = (props) => {
   };
 
   useEffect(() => {
+    document.title = `${capitalizeFirstLetter(props.category)} - Newzy247`
     updateNews();
   }, []);
 
@@ -120,8 +121,8 @@ const News = (props) => {
 
   const fetchMoreData = async () => {
     // this.setState({ page: this.state.page + 1 });
+    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
     setPage(page + 1)
-    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
     // this.setState({loading:true})
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -137,7 +138,7 @@ const News = (props) => {
 
   return (
     <>
-      <h1 className="text-center">
+      <h1 className="text-center" style={{marginTop: '90px', marginBottom:'45px'}}>
         Newzy247 - {capitalizeFirstLetter(props.category)} News
       </h1>
       {loading && <Spinner />}
