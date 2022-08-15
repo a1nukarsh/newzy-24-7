@@ -1,10 +1,9 @@
 import { getByTitle } from "@testing-library/react";
-import React, { Component } from "react";
+import React from "react";
 
-export class Newsitem extends Component {
+const Newsitem =(props)=> {
  
-  render() {
-    let { title, description, imageUrl, newsUrl, author, date, source } = this.props;
+    let { title, description, imageUrl, newsUrl, author, date, source } = props;
     return (
       <div className="card my-3">
         <img src={imageUrl?imageUrl:"https://images.wsj.net/im-599395/social"} className="card-img-top" alt="..." />
@@ -22,7 +21,7 @@ export class Newsitem extends Component {
         </div>
       </div>
     );
-  }
+  
 }
 
 export default Newsitem;
